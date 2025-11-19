@@ -13,7 +13,7 @@ p {
 a {
   background-color: skyblue;
   border: 8px solid blue;
-  margin: 8px;
+  margin: 0 auto;
   padding: 8px;
-
+  display: inline-block;
 }
