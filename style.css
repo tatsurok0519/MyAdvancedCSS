@@ -11,5 +11,9 @@ p {
 }
 
 a {
-  background-color: skyblue;;
+  background-color: skyblue;
+  border: 8px solid blue;
+  margin: 8px;
+  padding: 8px;
+
 }
