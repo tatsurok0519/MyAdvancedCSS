@@ -14,7 +14,6 @@ p {
   width: 400px;
   margin: 32px auto 0;
   border: 8px solid blue;
-  /* position: relative; */
 }
 
 .box-1 {
@@ -25,11 +24,8 @@ p {
 
 .box-2 {
   width: 100px;
-  height: 50px;
+  height: 100px;
   background-color: skyblue;
-  position : fixed;
-  top: 16px;
-  right: 16px;
 }
 
 .box-3 {
