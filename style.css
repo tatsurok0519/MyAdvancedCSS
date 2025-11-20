@@ -10,10 +10,8 @@ p {
   margin: 0;
 }
 
-a {
-  background-color: skyblue;
-  border: 8px solid blue;
-  margin: 0 auto;
-  padding: 8px;
-  display: inline-block;
+.box-1 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
 }
