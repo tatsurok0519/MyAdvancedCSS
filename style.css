@@ -8,6 +8,7 @@ section {
   background: pink;
   max-width: 600px;
   margin: 0 auto;
+  width: calc(100% - 16px - 16px);
 }
 
 h1 {
