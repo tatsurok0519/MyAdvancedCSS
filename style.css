@@ -5,20 +5,12 @@ body {
   margin: 0;
 }
 
-p {
+header {
+  height:160px;
   background-color: pink;
 }
 
-img {
-  width:80px;
-  height:80px;
-  float: right;
-}
-
-.p-1 {
-  display: flow-root;
-}
-
-.p-2 {
-  /* clear: right; */
+h1 {
+  margin: 0;
+  font-size: 22px;
 }
