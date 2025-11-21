@@ -12,6 +12,9 @@ p {
 img {
   width:80px;
   height:80px;
-  object-fit: cover;
-  vertical-align: bottom;
+  float: right;
+}
+
+.p-2 {
+  clear: right;
 }
