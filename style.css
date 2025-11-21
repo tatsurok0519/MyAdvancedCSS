@@ -15,6 +15,10 @@ img {
   float: right;
 }
 
+.p-1 {
+  display: flow-root;
+}
+
 .p-2 {
-  clear: right;
+  /* clear: right; */
 }
