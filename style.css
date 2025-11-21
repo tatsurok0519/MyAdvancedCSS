@@ -9,5 +9,7 @@ ul {
 li {
   background: lightgray;
   padding: 8px;
-  border-radius: 8px;;
+  border-radius: 8px;
+  margin-bottom: 8px;
+  width: 320px;
 }
