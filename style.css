@@ -8,4 +8,6 @@ a {
   border-radius: 8px;
   text-align: center;
   line-height: 32px;
+  text-decoration: none;
+  color: inherit;
 }
