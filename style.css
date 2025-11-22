@@ -5,7 +5,6 @@ body {
 }
 
 section {
-  background: pink;
   max-width: 600px;
   margin: 0 auto;
   width: calc(100% - 16px - 16px);
@@ -13,11 +12,8 @@ section {
 
 h1 {
   margin: 0;
-  background: skyblue;
-  color:rgb(211 227 253);
 }
 
 p {
   margin: 0;
-  background: orange;
 }
