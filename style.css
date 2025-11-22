@@ -14,9 +14,11 @@ section {
 h1 {
   margin: 0;
   background: skyblue;
+  width: 500px;
 }
 
 p {
   margin: 0;
   background: orange;
+  width: 50%;
 }
