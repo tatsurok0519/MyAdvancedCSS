@@ -1,5 +1,9 @@
 @charset "utf-8";
 
+:root {
+  --brand-color :orange;
+}
+
 body {
   margin: 0;
 }
@@ -12,8 +16,8 @@ section {
 
 h1 {
   margin: 0;
-  color: orange;
-  border-bottom: 2px solid orange;
+  color: var(--brand-color);
+  border-bottom: 2px solid var(--brand-color);
 }
 
 p {
