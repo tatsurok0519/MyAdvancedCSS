@@ -7,3 +7,7 @@ button:hover {
 input:focus {
   border: 8px solid blue;
 }
+
+button:active {
+  border: 8px solid red;
+}
