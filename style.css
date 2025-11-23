@@ -1,21 +1,2 @@
 @charset "utf-8";
 
-li:nth-child(odd) {
-  color: red;
-}
-
-li:nth-child(even) {
-  color: blue;
-}
-
-li:nth-child(3n) {
-  color: green;
-}
-
-li:first-child {
-  background: pink;
-}
-
-li:last-child {
-  background: skyblue;
-}
