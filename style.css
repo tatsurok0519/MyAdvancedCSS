@@ -3,3 +3,7 @@
 section > p {
   color: red;
 }
+
+section p {
+  background: skyblue;
+}
