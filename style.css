@@ -3,3 +3,7 @@
 button:hover {
   font-weight: bold;
 }
+
+input:focus {
+  border: 8px solid blue;
+}
