@@ -3,7 +3,7 @@
 .container {
   border:8px solid blue;
   display:flex;
-  flex-direction: column;
+  flex-direction: column-reverse;
 }
 
 .item-1 {
