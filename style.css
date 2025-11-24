@@ -1,2 +1,9 @@
 @charset "utf-8";
 
+p::before {
+  content: '- '
+}
+
+p::after {
+  content: ' -'
+}
