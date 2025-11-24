@@ -2,8 +2,7 @@
 
 .container {
   border:8px solid blue;
-  display:inline-flex;
-  width: 280px;
+  display:flex;
 }
 
 .item-1 {
