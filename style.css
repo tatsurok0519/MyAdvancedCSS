@@ -2,6 +2,7 @@
 
 .container {
   border:8px solid blue;
+  display:flex;
 }
 
 .item-1 {
