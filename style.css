@@ -3,3 +3,7 @@
 a.link[target] {
   color: pink;
 }
+
+a.link[href] {
+  color: blue;
+}
