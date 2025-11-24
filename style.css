@@ -1,5 +1,9 @@
 @charset "utf-8";
 
+a {
+  color: red !important;
+}
+
 a.link[target] {
   color: pink;
 }
